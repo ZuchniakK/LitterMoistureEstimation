@@ -25,7 +25,7 @@ This solves an additional problem of representing the relevant metrics. When the
 
 <img src="figures/litter_moisture_distribution.png" alt="drawing" width="200"/>
 
-![plot](figures/litter_moisture_distribution.png)
+![plot](figures/litter_moisture_distribution.png =250x)
 
 
 ## Trained models
